@@ -8,8 +8,8 @@ class Tablet
   attr_accessor :capacidade, :tamanho_de_tela, :sistema_operacional
 
   def ligar(value)
-    return "Ligou" if value == 'sim'
-    return "desligou" if value == 'não'
+    puts "Ligou" if value == 'sim'
+    puts "desligou" if value == 'não'
   end
 
   def carregar
@@ -17,7 +17,7 @@ class Tablet
   end
 
   def conectarWifi(password)
-    return "Conectado" if password == 1234
-    return "Senha invalida"
+    return puts "Conectado" if password == 1234
+    puts "Senha invalida"
   end
 end
