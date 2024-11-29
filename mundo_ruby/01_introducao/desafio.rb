@@ -8,11 +8,11 @@ pessoas = [
   { pessoa7: { nome: 'Souza Melo', email: 'souzamelo@outlook.com' } },
   { pessoa8: { nome: 'João Melo', email: 'joaomelo@gmail.com' } },
   { pessoa9: { nome: 'João Souza', email: 'joaosouza@hotmail.com' } },
-  { pessoa10: { nome: 'Breno Melo', email: 'brenomelo@outlook.com' }}
+  { pessoa10: { nome: 'Breno Melo', email: 'brenomelo@outlook.com' } }
 ]
 
 def full_informations(pessoa)
-  pessoa.each_value do | dados|
+  pessoa.each_value do |dados|
     if dados[:funcionaria]
       puts "O #{dados[:nome]} tem o email: #{dados[:email]} e ela é uma funcionário, cujo o seu cargo é #{dados[:funcionaria]}"
     else

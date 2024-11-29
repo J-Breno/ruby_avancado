@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e69ea071-dfa5-4c9e-813b-2a1eaaa731c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../03_gems/entendendo_gems/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_gems/entendendo_gems/.idea/entendendo_gems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_gems/entendendo_gems/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_gems/entendendo_gems/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_gems/entendendo_gems/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_gems/entendendo_gems/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_gems/entendendo_gems/desafio.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_gems/entendendo_gems/faraday.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_gems/entendendo_gems/gems.locked" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_introducao/desafio.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_introducao/desafio.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/entendendo_gems.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faraday.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gems.locked" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2pXQ0Adxk6tVxjQfsSkz1vqcI4l" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Ruby.desafio.executor": "Run",
+    "Ruby.faraday.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/jbreno_io/cursos/ruby_invenio/mundo_ruby/03_gems/entendendo_gems",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ruby.structure.view.model.defaults.configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e69ea071-dfa5-4c9e-813b-2a1eaaa731c7" name="Changes" comment="" />
+      <created>1732909714813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732909714813</updated>
+      <workItem from="1732909715884" duration="1757000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/entendendo_gems@faraday.rcov" NAME="faraday Coverage Results" MODIFIED="1732910603231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="entendendo_gems" />
+    <SUITE FILE_PATH="coverage/entendendo_gems@desafio.rcov" NAME="desafio Coverage Results" MODIFIED="1732911365034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="entendendo_gems" />
+  </component>
+</project>
