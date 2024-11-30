@@ -6,7 +6,16 @@ novoTable.conectarWifi(1234)
 novoTable.carregar
 
 puts "=================="
+
 class Pessoa
+
+  def initialize(nome, idade)
+    @nome = nome
+    @idade = idade
+  end
+
+  attr_accessor :nome, :idade
+
   def gritar_alto(texto = "AHHHHHH")
     puts "Gritando: #{texto}"
   end
