@@ -1,6 +1,15 @@
 puts true if '1' == '1'
 puts '1' != 1.to_s
-
+# TODO CoC = Convention Over Configuration = é uma convenção para configuração
+# TODO tabela é no plural já os models é no singular
+# TODO controller termina com _controller
+# TODO configuração do bando de dados já é definida
+# TODO rails g scaffold User name:string email:string bithdate:date age:integer
+# TODO DRY = Don't repeat Yourself = Usando partials nas views = Usando helpers(comandos, blocos de códigos)
+# TODO isso é não repetir código
+# TODO MVC = Model, View, Controller
+# TODO O usuário interage com a VIEW, as VIEWs solicitam algo para o CONTROLLER, os CONTROLLERs solicitam
+# TODO dados para os MODELs e o MODELs solicata dados do Banco de dados, e depois vem o inverso
 idade = 17
 
 if idade < 18

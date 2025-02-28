@@ -21,3 +21,5 @@ class Tablet
     puts "Senha invalida"
   end
 end
+
+puts [1, 3, 4, 2, 5].sample
