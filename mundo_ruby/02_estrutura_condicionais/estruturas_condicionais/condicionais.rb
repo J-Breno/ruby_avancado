@@ -10,6 +10,7 @@ puts '1' != 1.to_s
 # TODO MVC = Model, View, Controller
 # TODO O usuário interage com a VIEW, as VIEWs solicitam algo para o CONTROLLER, os CONTROLLERs solicitam
 # TODO dados para os MODELs e o MODELs solicata dados do Banco de dados, e depois vem o inverso
+# TODO active record do rails é o ORM
 idade = 17
 
 if idade < 18
